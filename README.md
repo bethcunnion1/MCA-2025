@@ -85,16 +85,7 @@
 
 <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week2.html" class="button">week 2</a>
 
-a.button {
-    padding: 1px 6px;
-    border: 1px outset buttonborder;
-    border-radius: 3px;
-    color: buttontext;
-    background-color: buttonface;
-    text-decoration: none;
-  <div class="section">
-    <p>
-      <html>
+
 <!--Version 1.0 -->
   <head>
     <title>My Portfolio Page</title>
