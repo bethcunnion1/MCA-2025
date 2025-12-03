@@ -82,11 +82,11 @@ a.button {
     <a href="https://bethcunnion1.github.io/MCA2025/tasks/week2.html" class="button">2 - Music as notation</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week3.html" class="button">3 - Encoding basics for notation</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week4.html" class="button">4 - Computational analytics of notated music</a>
-    <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week5.html" class="button">5 - Standards in curation</button>
+    <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week5.html" class="button">5 - Standards in curation</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week7.html" class="button">7- Challenges to music curation</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week8.html" class="button">8 - Music as sound</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week9.html" class="button">9 - Analysing and extracting data from audio</a>
-    <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week10.html" class="button">10 - Audio similarity & transcription</button>
+    <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week10.html" class="button">10 - Audio similarity & transcription</a>
   </div>
 
 
