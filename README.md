@@ -78,7 +78,7 @@ a.button {
   <h1>MCA PORTFOLIO 2025</h1>
 
   <div class="nav">
-    <button>1- Basics of music data</button>
+    <a href="https://bethcunnion1.github.io/MCA2025/tasks/week1.html class="button">1 - Basics of music data</a>
     <button>2- Music as notation</button>
     <button>3- Encoding basics for notation</button>
     <button>4- Computational analytics of notated music</button>
