@@ -19,7 +19,7 @@ a.button {
     border: 1px outset buttonborder;
     border-radius: 3px;
     color: buttontext;
-    background-color: #BE27F5;
+    background-color: #EDA8FF;
     text-decoration: none;    h1 {
       color: #810999;
       margin-top: 30px;
