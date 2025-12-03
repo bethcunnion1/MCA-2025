@@ -112,8 +112,6 @@
       Another struggle is the issues around copyright. This means that in some scenarios we are forced to work with cover versions of songs which might not exactly replicate the original, and this could cause confusion between the two pieces, making it harder to find the correct one when searching online.
       Thankfully both of my pieces are available on Spotify, meaning they are easily accessible and I am able to find out details and statistics. 
       While there may be challenges in doing this type of work, I am excited to delve deeper into the pieces I have chosen through analysing and curating them.</p>
-  </body>
-    </p>
   </div>
 </body>
 </html>
