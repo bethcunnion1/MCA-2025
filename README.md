@@ -107,9 +107,9 @@ a.button {
 
       <!-- Replace with your content -->
     </p>
-  </div>
+ 
 
-  <hr />
+ 
 
   <div class="section">
     <h2>Challenges</h2>
