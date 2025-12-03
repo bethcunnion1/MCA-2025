@@ -2,7 +2,6 @@
 <!--Version 1.0 -->
   <head>
     <title>My Portfolio Page</title>
-
   </head>
   <body>
     <h1>Week[1]</h1>
