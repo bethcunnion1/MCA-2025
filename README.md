@@ -19,7 +19,7 @@ a.button {
     border: 1px outset buttonborder;
     border-radius: 3px;
     color: buttontext;
-    background-color: buttonface;
+    background-color: 222;
     text-decoration: none;    h1 {
       color: #810999;
       margin-top: 30px;
@@ -89,7 +89,7 @@ a.button {
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week10.html" class="button">10 - Audio similarity & transcription</button>
   </div>
 
-<a href="https://bethcunnion1.github.io/MCA-2025/tasks/week2.html" class="button">week 2</a>
+
 
 
 <!--Version 1.0 -->
