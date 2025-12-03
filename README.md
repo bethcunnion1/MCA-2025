@@ -14,7 +14,13 @@
       line-height: 1.6;
     }
 
-    h1 {
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;    h1 {
       color: #810999;
       margin-top: 30px;
     }
