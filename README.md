@@ -83,6 +83,7 @@
     <button>10- Audio similarity & transcription</button>
   </div>
 
+<a href="https://bethcunnion1.github.io/MCA-2025/tasks/week2.html" class="button">week 2</a>
 
 
   <div class="section">
