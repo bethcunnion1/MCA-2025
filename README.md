@@ -95,12 +95,10 @@ a.button {
 <!--Version 1.0 -->
   <head>
     <title>My Portfolio Page</title>
-
-
+<h1 style="color:blue;">This is a heading</h1>
   </head>
   <body>
-    <h1>Week 1</h1>
-   <h2>Dataset Theme</h2>
+    <h1 style="color:#9C21A3;">Week 1</h1>   <h2>Dataset Theme</h2>
     <p>The theme I chose for my portfolio is jazz and blues music. The artist of my first piece is Bill Withers, and the second is Wilbur Schwandt and Fabian Andre. I chose to write about these pieces as they are both great examples of the genre and showcase the emotional depth and musicality that jazz and blues can offer.</p>
   </body>
 </html>
