@@ -73,6 +73,7 @@ a.button {
       margin: 20px 0;
     }
   </style>
+  <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
   <h1>MCA PORTFOLIO 2025</h1>
