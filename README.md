@@ -12,7 +12,7 @@
       background-color: #fff;
       margin: 0;
       padding: 0 15%;
-      color: #9C21A3;
+      color: #0;
       line-height: 1.6;
     }
 
