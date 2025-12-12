@@ -92,6 +92,6 @@ a.button {
 <body>
   <h1>Welcome to my MCA 2025 Portfolio!</h1>
   <h2>Click on the buttons to see my tasks from each week</h2>
-<img src="musicnotes.png" alt="musicnotes" width="1000" height="100"/>  
+<img src=/tasks/"musicnotes.png" alt="musicnotes" width="1000" height="100"/>  
 </body>
 
