@@ -74,10 +74,7 @@ a.button {
   </style>
   <link href="./style.css" type="text/css" rel="stylesheet">
   </head>
-<body>
-  <h1>MCA PORTFOLIO 2025</h1>
 
-  </body>
 
   <div class="nav">
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week1.html" class="button">1 - Basics of music data</a>
