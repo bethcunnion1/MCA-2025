@@ -171,6 +171,50 @@ a.button {
 <h1>Week 7</h1>
   <body>
 
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Render MEI with Verovio</title>
+  <!-- official verovio JS (development build shown here) -->
+  <script src="https://www.verovio.org/javascript/develop/verovio-toolkit.js"></script>
+  <style> #score { max-width: 100%; } </style>
+</head>
+<body>
+  <h1>My MEI score</h1>
+  <div id="score">Loading…</div>
+
+  <script>
+    // create toolkit
+    const tk = new verovio.toolkit();
+
+    // optional: set toolkit options (scale, pageHeight, etc.)
+    tk.setOptions({ pageHeight: 1400, pageWidth: 1000, scale: 40 });
+
+    // fetch your MEI file (same origin preferred to avoid CORS issues)
+    fetch('scores/my-score.mei')
+      .then(resp => {
+        if (!resp.ok) throw new Error('Fetch failed: ' + resp.status);
+        return resp.text();
+      })
+      .then(meiXML => {
+        // two approaches:
+        // 1) renderData(meiString, options) -> returns SVG string directly (quick).
+        const svg = tk.renderData(meiXML, {});
+        document.getElementById('score').innerHTML = svg;
+
+        // 2) or load it and render pages (useful for paging, MIDI, selection):
+        // tk.loadData(meiXML);
+        // const pageSvg = tk.renderToSVG(1);   // render page 1 to SVG string
+        // document.getElementById('score').innerHTML = pageSvg;
+      })
+      .catch(err => {
+        document.getElementById('score').textContent = 'Error loading MEI: ' + err;
+      });
+  </script>
+</body>
+</html>
+    
 <p>
   I have chosen to use the Creative Commons 4.0 licensing as it is a user-friendly and legally standardised for sharing creative and academic work. 
 </p>
