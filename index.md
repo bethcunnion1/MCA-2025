@@ -77,6 +77,7 @@ a.button {
 
 
   <div class="nav">
+    <a href="https://bethcunnion1.github.io/MCA-2025/" class="button">Home</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week1.html" class="button">1 - Basics of music data</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week2.html" class="button">2 - Music as notation</a>
     <a href="https://bethcunnion1.github.io/MCA-2025/tasks/week3.html" class="button">3 - Encoding basics for notation</a>
